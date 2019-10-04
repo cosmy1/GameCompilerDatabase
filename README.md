@@ -3,7 +3,7 @@
 | RELEASE | TITLE | PLATFORM | COMPILER |
 |--------------|-------|----------|----------|
 | 2003 | Need For Speed Underground | Windows | Visual C++ .NET 2002 |
-| 2004 | Need For Speed Underground | Windows | Visual C++ .NET 2002 |
+| 2004 | Need For Speed Underground 2 | Windows | Visual C++ .NET 2002 |
 | 2004 | Grand Theft Auto San Andreas | Windows | Visual C++ .NET 2002 |
 | 2005 | Need For Speed Most Wanted | Windows | Visual C++ .NET 2003 |
 | 2006 | Need For Speed Carbon | Windows | Visual C++ .NET 2003 |
