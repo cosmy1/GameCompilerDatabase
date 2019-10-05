@@ -24,4 +24,5 @@
 | 2016 | Battlefield 1 | Windows | Visual C++ 2013 |
 | 2017 | Project CARS 2 | Windows | Visual C++ 2015 |
 | 2017 | Crashday Redline Edition | Windows | Visual C++ 2013 |
+| 2018 | Crash Bandicoot N. Sane Trilogy | Windows | Visual C++ 2015 |
 | 2018 | Far Cry 5 | Windows | Visual C++ 2015 |
