@@ -16,6 +16,7 @@
 | 2008 | Fallout 3 | Windows | Visual C++ 2005 |
 | 2008 | Grand Theft Auto IV | Windows | Visual C++ 2005 |
 | 2010 | Battlefield: Bad Company 2 | Windows | Visual C++ 2005 |
+| 2010 | Fallout New Vegas | Windows | Visual C++ 2008 |
 | 2010 | Grand Theft Auto IV EFLC | Windows | Visual C++ 2005 |
 | 2011 | Battlefield 3 | Windows | Visual C++ 2008 |
 | 2011 | Serious Sam 3 BFE | Windows | Visual C++ 2008 |
