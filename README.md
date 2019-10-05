@@ -2,6 +2,7 @@
 
 | RELEASE | TITLE | PLATFORM | COMPILER |
 |--------------|-------|----------|----------|
+| 1998 | Fallout 2 | Windows | Watcom C/C++ 10.5 |
 | 2000 | Command & Conquer Red Alert 2 | Windows | Visual C++ 6.0 |
 | 2000 | Need for Speed Porsche Unleashed | Windows | Visual C++ 6.0 |
 | 2001 | Command & Conquer Yuri's Revenge | Windows | Visual C++ 6.0 |
