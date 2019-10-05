@@ -17,6 +17,7 @@
 | 2010 | Grand Theft Auto IV EFLC | Windows | Visual C++ 2005 |
 | 2010 | Battlefield: Bad Company 2 | Windows | Visual C++ 2005 |
 | 2011 | Battlefield 3 | Windows | Visual C++ 2008 |
+| 2011 | Serious Sam 3 BFE | Windows | Visual C++ 2008 |
 | 2013 | Battlefield 4 | Windows | Visual C++ 2012 |
 | 2013 | Grand Theft Auto V | Windows | Visual C++ 2012 |
 | 2016 | The Witness | Windows | Visual C++ 2013 |
