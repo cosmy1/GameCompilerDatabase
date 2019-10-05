@@ -2,7 +2,9 @@
 
 | RELEASE | TITLE | PLATFORM | COMPILER |
 |--------------|-------|----------|----------|
+| 2000 | Command & Conquer Red Alert 2 | Windows | Visual C++ 6.0 |
 | 2000 | Need for Speed Porsche Unleashed | Windows | Visual C++ 6.0 |
+| 2001 | Command & Conquer Yuri's Revenge | Windows | Visual C++ 6.0 |
 | 2002 | Need For Speed Hot Pursuit 2 | Windows | Visual C++ 6.0 |
 | 2003 | Need For Speed Underground | Windows | Visual C++ .NET 2002 |
 | 2004 | Need For Speed Underground 2 | Windows | Visual C++ .NET 2002 |
