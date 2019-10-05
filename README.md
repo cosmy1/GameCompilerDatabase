@@ -13,6 +13,7 @@
 | 2006 | Crashday | Windows | Watcom C/C++ 11.0c |
 | 2006 | Need For Speed Carbon | Windows | Visual C++ .NET 2003 |
 | 2007 | Need For Speed Pro Street | Windows | Visual C++ 2005 |
+| 2008 | Fallout 3 | Windows | Visual C++ 2005 |
 | 2008 | Grand Theft Auto IV | Windows | Visual C++ 2005 |
 | 2010 | Battlefield: Bad Company 2 | Windows | Visual C++ 2005 |
 | 2010 | Grand Theft Auto IV EFLC | Windows | Visual C++ 2005 |
