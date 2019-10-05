@@ -26,6 +26,7 @@
 | 2011 | Battlefield 3 | Windows | Visual C++ 2008 |
 | 2011 | Serious Sam 3 BFE | Windows | Visual C++ 2008 |
 | 2013 | Battlefield 4 | Windows | Visual C++ 2012 |
+| 2015 | Fallout 4 | Windows | Visual C++ 2012 |
 | 2015 | Grand Theft Auto V | Windows | Visual C++ 2012 |
 | 2016 | Battlefield 1 | Windows | Visual C++ 2013 |
 | 2016 | The Witness | Windows | Visual C++ 2013 |
