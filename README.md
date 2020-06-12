@@ -14,9 +14,11 @@
 | 2003 | Need For Speed Underground | Windows | Visual C++ .NET 2002 |
 | 2004 | Need For Speed Underground 2 | Windows | Visual C++ .NET 2002 |
 | 2005 | Grand Theft Auto San Andreas | Windows | Visual C++ .NET 2002 |
+| 2005 | Juiced | Windows | Visual C++ .NET 2003 |
 | 2005 | Need For Speed Most Wanted | Windows | Visual C++ .NET 2003 |
 | 2006 | Crashday | Windows | Watcom C/C++ 11.0c |
 | 2006 | Need For Speed Carbon | Windows | Visual C++ .NET 2003 |
+| 2007 | Juiced 2: Hot Import Nights | Windows | Visual C++ 2005 |
 | 2007 | Need For Speed Pro Street | Windows | Visual C++ 2005 |
 | 2008 | Fallout 3 | Windows | Visual C++ 2005 |
 | 2008 | Grand Theft Auto IV | Windows | Visual C++ 2005 |
